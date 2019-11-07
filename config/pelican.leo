@@ -60,6 +60,7 @@
 <v t="leo.20180423103639.1"><vh>2019 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20191105.md</vh></v>
 <v t="leo.20191105182406.1"><vh>@edit 20191105-1.md</vh></v>
+<v t="leo.20191107203446.1"><vh>期中影片</vh></v>
 </v>
 </v>
 </v>
@@ -92,6 +93,20 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20191107203446.1">@language md
+---
+Title: 期中影片
+Date: 2019-11-7-20:36
+Category: Misc
+Tags: 2018FallCP
+Slug: 40823223
+Author: 40823223
+---
+
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/x8s-CjjPZwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
